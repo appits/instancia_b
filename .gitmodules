@@ -5,7 +5,7 @@
 
 [submodule "appits/IT-Sales-Standar-Localizado"]
 	path = appits/IT-Sales-Standar-Localizado
-	url = git@github.com:appits/IT-Sales-Standar-Localizado
+	url = git@github.com:appits/IT-Sales-Standar-Localizado.git
 	branch = 17.0
 
 
