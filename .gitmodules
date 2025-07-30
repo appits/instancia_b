@@ -1,0 +1,11 @@
+[submodule "appits/l10n_ve"]
+	path = appits/l10n_ve
+	url = git@github.com:appits/l10n_ve.git
+	branch = 17.0
+
+[submodule "appits/IT-Sales-Standar-Localizado"]
+	path = appits/IT-Sales-Standar-Localizado
+	url = git@github.com:appits/IT-Sales-Standar-Localizado
+	branch = 17.0
+
+
